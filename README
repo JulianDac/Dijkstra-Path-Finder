@@ -1,3 +1,5 @@
+Assignment requirements as in PDF
+
 To compile on server:
 javac -cp .:jopt-simple-5.0.2.jar PathFinderTester.java map/*.java pathFinder/*.java
 
